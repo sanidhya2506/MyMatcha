@@ -61,7 +61,7 @@ All this, beautifully packed into an easy-to-use and minimalist web app.
 
 ---
 
-## 📚 Installation (Optional – for local testing)
+## 📚 Installation 
 
 ```bash
 git clone https://github.com/your-username/mymatcha.git
