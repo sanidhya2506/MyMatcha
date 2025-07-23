@@ -10,7 +10,7 @@ Welcome to **MyMatcha**, the first-ever **BL (Boys' Love) drama recommendation e
 
 ## 🖼 Preview
 
-![MyMatcha App Screenshot](./4f7e9d62-4426-4506-a7fd-16afe6a8aece.png)
+![MyMatcha App Screenshot](Screenshot 2025-07-23 153549.png)
 
 ---
 
