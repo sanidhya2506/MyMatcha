@@ -64,7 +64,7 @@ All this, beautifully packed into an easy-to-use and minimalist web app.
 ## 📚 Installation 
 
 ```bash
-git clone https://github.com/your-username/mymatcha.git
+git clone https://github.com/sanidhya2506/mymatcha.git
 cd mymatcha
 pip install -r requirements.txt
 streamlit run main.py
